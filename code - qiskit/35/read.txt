@@ -1,0 +1,11 @@
+fig1 35 a=19 shots=1000 ( idem con m=4)
+fig2 35 a=27 shots=1000
+fig3 35 a=12 shots=1000 (sarebbe uguale con a=17)
+fig4 35 a=12 shots=10000
+fig5 e fig6 35 a=17 shots=10000
+fig7 e fig8 35 a=19 shots=10000
+Using a=4, found the factors of N=35 in 32.6600 % of the cases, 10k shots
+Using a=4, found the factors of N=35 in 33.9000 % of the cases
+Using a=4, found the factors of N=35 in 33.1700 % of the cases 26=4n+2 qubits
+Using a=4, found the factors of N=35 in 36.7000 % of the cases
+Using a=4, found the factors of N=35 in 33.0000 % of the cases

@@ -1,0 +1,4 @@
+fig1 circuito
+fig2 N=15, a=7
+Using a=7, found the factors of N=15 in 50.5500 % of the cases
+Using a=7, found the factors of N=15 in 51.9000 % of the cases 1k 18qubits

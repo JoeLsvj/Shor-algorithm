@@ -1,0 +1,16 @@
+set title 'N=55, m=4, shots=1k'
+set nokey
+set yrange [0:]
+#set xrange[:]
+#set ylabel 'counts'
+set ylabel 'probabilities'
+set xlabel 'values of y'
+#set xtics 1
+#set xlabel font "Times-Roman, 12"
+#set ylabel font "Times-Roman, 12"
+#unset xtics
+set xtics rotate 
+set style data histogram
+set style fill solid 0.1
+set boxwidth 0.5
+plot "file55_4_5000.txt" u 2:xtic(1) with boxes ls 2
