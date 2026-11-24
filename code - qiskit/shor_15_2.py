@@ -1,3 +1,20 @@
+# SPDX-License-Identifier: Apache-2.0
+#
+# This code is partially derived from the Qiskit Textbook,
+# Lab 7: Scalable Shor's Algorithm.
+#
+# Original source:
+# https://github.com/Qiskit/textbook/tree/main/notebooks
+#
+# Original authors: Qiskit Textbook contributors.
+#
+# Modified and extended by Giovanni Varutti as part of his
+# Bachelor's thesis, including circuit modifications,
+# numerical simulations, data processing and visualization.
+#
+# Licensed under the Apache License, Version 2.0.
+# See the LICENSE file for details.
+
 from tkinter import W
 from qiskit import *
 import numpy as np
